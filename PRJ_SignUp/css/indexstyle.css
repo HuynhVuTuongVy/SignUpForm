@@ -1,0 +1,87 @@
+body{
+    width: 100%;
+}
+
+.signup_form{
+    width: 50%;
+    margin-left: 383px;
+    height: 100%;
+    margin-top: 160px;
+}
+
+.signup_form{
+    background-color: #FFE0E6;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.login li{
+    list-style: none;
+}
+
+.user_box {
+    font-size: 20px;
+    margin-bottom: 13px;
+    margin-left: 84px;
+}
+
+.user_box input{
+    width: 497px;
+}
+
+.email_box {
+    font-size: 20px;
+    margin-bottom: 13px;
+    margin-left: 97px;
+}
+
+.email_box input{
+    width: 499px;
+}
+
+.pass_box {
+    font-size: 20px;
+    margin-bottom: 13px;
+    margin-left: 97px;
+}
+
+.pass_box input{
+    width: 499px;
+}
+
+.confirm_box {
+    font-size: 20px;
+    margin-bottom: 13px;
+    margin-left: 21px;
+}
+
+.confirm_box input{
+    width: 499px;
+}
+
+.label_email{
+    margin-right: 36px;
+}
+
+.signup_button{
+    text-align: center;
+    font-size: 21px;
+    margin-bottom: 20px;
+    
+}
+
+.signup_button button{
+    background-color: #DD5F99;
+    border: 1px #DD5F99 solid;
+    color: white;
+    width: 100px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    width: 18%;
+}
+
+
+
